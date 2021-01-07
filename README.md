@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Simple app that uses an inherited widget to change the color of two squares
 
 A few resources to get you started if this is your first Flutter project:
 
