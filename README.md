@@ -1,10 +1,8 @@
-# flutter_inherited_widget
-
-A new Flutter project.
-
-## Getting Started
+# Flutter Inherited Widget
 
 Simple app that uses an inherited widget to change the color of two squares
+
+## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
